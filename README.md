@@ -24,8 +24,9 @@ Search query: pizza near me
 Number of results: 50
 ```
 <br>
-After that, the script will search for the query on Google Maps and start scraping data for the results.
-The data scraped includes the `name`, `category`, `address`, `website`, `phone`, `review stars`, and `links of each place`. <br>
+After that, the script will search for the query on Google Maps and start scraping data for the results.<br>
+
+The data scraped includes the ***name*** , ***category*** , ***address*** , ***website*** , ***phone*** , ***review stars*** , and ***links of each place*** . <br>
 The output is saved as a `CSV` file with the name of the search query in the same directory as the script.
 
 ```diff
