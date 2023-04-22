@@ -1,4 +1,4 @@
-# Google Maps Data Scraping
+# Google Map Data Scraping
 This Python script allows you to scrape data from Google Maps for a given search query. You can specify the number of results you want to scrape and the script will save the scraped data to a CSV file.
 
 ![Python](https://badgen.net/badge/Python/3.x/blue)
